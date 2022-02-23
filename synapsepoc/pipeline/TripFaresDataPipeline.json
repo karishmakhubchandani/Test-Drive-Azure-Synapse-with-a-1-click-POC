@@ -469,7 +469,7 @@
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
-				"defaultValue": "mst7vvcmhwt753oopocws1p"
+				"defaultValue": "mst7vvcmhwt753oopocws1p1"
 			},
 			"SQLLoginUsername": {
 				"type": "string",
